@@ -1,6 +1,3 @@
-# Side-Project2
-Assigns a user a username.
-
 package UsernameGen;
 
 import java.util.Scanner;
